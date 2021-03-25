@@ -1,0 +1,61 @@
+{
+  "_from": "pokermavens",
+  "_id": "pokermavens@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-LrrfaLDFjPKhFAgcTSedmcEzI7s=",
+  "_location": "/pokermavens",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "pokermavens",
+    "name": "pokermavens",
+    "escapedName": "pokermavens",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pokermavens/-/pokermavens-1.0.4.tgz",
+  "_shasum": "2ebadf68b0c58cf2a114081c4d279d99c13323bb",
+  "_spec": "pokermavens",
+  "_where": "C:\\bnbpoker\\bnb-poker-api",
+  "author": {
+    "name": "Harry Baldwin"
+  },
+  "bugs": {
+    "url": "https://github.com/harrythree/pokermavens-npm/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  },
+  "deprecated": false,
+  "description": "Poker Mavens admin API wrapper",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "nock": "^8.0.0"
+  },
+  "homepage": "https://github.com/harrythree/pokermavens-npm#readme",
+  "keywords": [
+    "poker mavens",
+    "poker",
+    "api"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "pokermavens",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrythree/pokermavens-npm.git"
+  },
+  "scripts": {
+    "test": "_mocha 'test/*.spec.js'"
+  },
+  "version": "1.0.4"
+}
